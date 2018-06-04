@@ -1,0 +1,51 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!-->
+
+<html class="no-js" lang="">
+<!--<![endif]-->
+<head>
+<link rel="icon" href="icon.png">
+<meta charset="utf-8">
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Merry Christmas!!</title>
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/jquery.fancybox.css">
+<link rel="stylesheet" href="css/main.css">
+<link rel="stylesheet" href="css/responsive.css">
+<link rel="stylesheet" href="css/animate.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+</head>
+
+<body>
+<!-- Header Section -->
+<section class="banner" role="banner"> 
+  <!-- Navigation Section -->
+  <header id="header">
+    <div class="header-content clearfix"> <a class="logo" href="index.html">Merry Christmas</a>
+      <nav class="navigation" role="navigation">
+        <ul class="primary-nav">
+          <!--<li><a href="#introduction">About Me</a></li>-->
+          <li><a href="christmas">Back to Christmas!!</a></li>
+        </ul>
+      </nav>
+      <a href="#" class="nav-toggle">Menu<span></span></a> </div>
+  </header>
+  <!-- Navigation Section --> 
+  <!-- Banner Section -->
+  <div class="container">
+    <div class="col-md-7 banner-inner-wrapper">
+      <div class="banner-text">
+          <h4><b>A Message From Santa</b></h4>
+          <div class="intro-content">
+          <p>  Start the hunt by going to </h4></p><u><a href="https://pitt.edu/~jaw224/grosi.html"><p><h4>pitt.edu/~jaw224/grosi </h4></u></a></p>
+        <!-- BUTTON <a href="#introduction" class="btn">Find out more</a> </div> -->
+      <!-- banner text --> 
+    </div>
+  </div>
+  <!-- Banner Section --> 
+</section>
+<!-- Header Section --> 

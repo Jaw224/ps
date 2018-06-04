@@ -1,0 +1,51 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!-->
+
+<html class="no-js" lang="">
+<!--<![endif]-->
+<head>
+<link rel="icon" href="icon.png">
+<meta charset="utf-8">
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Merry Christmas!!</title>
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/jquery.fancybox.css">
+<link rel="stylesheet" href="css/main.css">
+<link rel="stylesheet" href="css/responsive.css">
+<link rel="stylesheet" href="css/animate.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+</head>
+
+<body>
+<!-- Header Section -->
+<section class="banner" role="banner"> 
+  <!-- Navigation Section -->
+  <header id="header">
+    <div class="header-content clearfix"> <a class="logo" href="index.html">Merry Christmas</a>
+      <nav class="navigation" role="navigation">
+        <ul class="primary-nav">
+          <!--<li><a href="#introduction">About Me</a></li>-->
+          <li><a href="instructions"><font color ="white">A Message From the North Pole</a></font></li>
+        </ul>
+      </nav>
+      <a href="#" class="nav-toggle">Menu<span></span></a> </div>
+  </header>
+  <!-- Navigation Section --> 
+  <!-- Banner Section -->
+  <div class="container">
+    <div class="col-md-5 banner-inner-wrapper">
+      <div class="banner-text">
+          <h3><font color ="white"><b>Merry Christmas Everyone!</b></font></h3>
+          <div class="intro-content">
+          <p><h4>I've sent you all a letter to read. My tech savy elves put a link to it in the top right corner of this page. </h4></p>
+        <!-- BUTTON <a href="#introduction" class="btn">Find out more</a> </div> -->
+      <!-- banner text --> 
+    </div>
+  </div>
+  <!-- Banner Section --> 
+</section>
+<!-- Header Section --> 
